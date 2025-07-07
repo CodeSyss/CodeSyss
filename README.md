@@ -8,6 +8,7 @@ I'm Carlos Hernández, developer.
  / ![image](https://github.com/user-attachments/assets/e9e6bf7e-3877-4167-8ca3-9daf894c0db7)
  / ![image](https://github.com/user-attachments/assets/0fe6046c-d9b6-46d7-b72c-f6626af70935)
  / ![image](https://github.com/user-attachments/assets/7c97bc00-3bb5-41ae-b730-eaa48e3cae26)
- /  ![image](https://github.com/user-attachments/assets/efcc9b7c-8138-43f6-a5ba-4d465447bfb9)
+ / ![image](https://github.com/user-attachments/assets/efcc9b7c-8138-43f6-a5ba-4d465447bfb9)
+/ ![image](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 
-Skills: REACT / JS / HTML / CSS / Node.js
+Skills: REACT / JS / HTML / CSS / Node.js / Nest.js
