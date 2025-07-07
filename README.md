@@ -9,7 +9,7 @@ I'm Carlos Hernández, developer.
  / ![image](https://github.com/user-attachments/assets/0fe6046c-d9b6-46d7-b72c-f6626af70935)
  / ![image](https://github.com/user-attachments/assets/7c97bc00-3bb5-41ae-b730-eaa48e3cae26)
  / ![image](https://github.com/user-attachments/assets/efcc9b7c-8138-43f6-a5ba-4d465447bfb9)
-/ ![image](![image](https://github.com/user-attachments/assets/19ff066a-d18f-45dd-bccb-ac42f2280faf)
+/ ![image](https://github.com/user-attachments/assets/19ff066a-d18f-45dd-bccb-ac42f2280faf)
 
 
 Skills: REACT / JS / HTML / CSS / Node.js / Nest.js
